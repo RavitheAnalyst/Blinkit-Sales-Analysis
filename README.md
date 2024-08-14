@@ -1,9 +1,6 @@
 # Blinkit-Sales-Analysis
-
 This repository contains data related to the performance of blinkit, India's Last Minute App.
-
 Key Insights:
-
 blinkit generated $1.20M in total sales, with an average sale of $141.
 The average customer rating was 3.9 out of 5.
 blinkit operates across three tiers, with Tier 3 contributing the highest sales.
